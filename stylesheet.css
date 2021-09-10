@@ -74,6 +74,19 @@ a:hover {
   text-decoration: none;
 }
 
+.blue-text {
+  font-size: 16px;
+  color: #2a7ae2;
+  font-weight: 500;
+}
+
+.tmline-title {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  color: #9b3022;
+}
+
 body,
 td,
 th,
@@ -100,9 +113,22 @@ papertitle {
   font-weight: 700
 }
 
+projecttitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700
+}
+
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
+}
+
+.inc-logo {
+  width: 160px;
+  margin: 0;
+  height: 160px;
+  position: relative;
 }
 
 .one {
